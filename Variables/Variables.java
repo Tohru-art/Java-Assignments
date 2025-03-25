@@ -16,6 +16,6 @@ public class Variables {
         }
 
 
-        
+        input.close();
     }
 }
